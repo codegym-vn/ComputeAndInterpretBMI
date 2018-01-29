@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\bin\Debug\ComputeAndInterpretBMI.exe.config
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\bin\Debug\ComputeAndInterpretBMI.exe
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\bin\Debug\ComputeAndInterpretBMI.pdb
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\obj\Debug\ComputeAndInterpretBMI.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\obj\Debug\ComputeAndInterpretBMI.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\obj\Debug\ComputeAndInterpretBMI.exe
+D:\CodeGym-ThucHanh\ComputeAndInterpretBMI\ComputeAndInterpretBMI\obj\Debug\ComputeAndInterpretBMI.pdb
