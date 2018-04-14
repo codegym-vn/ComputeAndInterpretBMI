@@ -10,16 +10,19 @@ namespace ComputeAndInterpretBMI
     {
         static void Main(string[] args)
         {
+            //Khai báo các biến sử dụng trong chương trình
+            double weight, height, bmi;
+
             //Nhập vào cân nặng
             Console.Write("Please enter the weight (kg): ");
-            double weight = double.Parse(Console.ReadLine());
+            weight = double.Parse(Console.ReadLine());
 
             //Nhập vào chiều cao
             Console.Write("Please enter the height (m): ");
-            double height = double.Parse(Console.ReadLine());
+            height = double.Parse(Console.ReadLine());
 
             //Tính chỉ số BMI
-            double bmi = weight / (height * height);
+            bmi = weight / (height * height);
 
             //Hiển thị kết quả
             Console.WriteLine("BMI is " + bmi);
