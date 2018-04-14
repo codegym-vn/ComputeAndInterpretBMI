@@ -22,10 +22,10 @@ namespace ComputeAndInterpretBMI
             height = double.Parse(Console.ReadLine());
 
             //Tính chỉ số BMI
-            bmi = weight / (height * height);
+            bmi = weight / Math.Pow(height, 2);
 
             //Hiển thị kết quả
-            Console.WriteLine("BMI is " + bmi);
+            Console.WriteLine("BMI is {0}", bmi);
             if (bmi < 18.5)
                 Console.WriteLine("Underweight");
             else if (bmi < 25)
